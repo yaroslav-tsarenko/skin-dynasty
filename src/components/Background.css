@@ -1,0 +1,127 @@
+.image-icon14 {
+  width: 133px;
+  height: 133px;
+  position: relative;
+  object-fit: contain;
+}
+.phase-22 {
+  color: #13b5cb;
+}
+.fn-phase-22 {
+  height: 18px;
+  position: relative;
+  line-height: 18px;
+  align-items: center;
+}
+.b5,
+.container55,
+.fn-phase-22 {
+  align-self: stretch;
+  display: flex;
+}
+.container55 {
+  overflow: hidden;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.b5 {
+  height: 22px;
+  position: relative;
+  line-height: 135%;
+  align-items: center;
+  white-space: nowrap;
+}
+.container56,
+.container57 {
+  display: flex;
+  justify-content: flex-start;
+}
+.container57 {
+  width: 63px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.container56 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: center;
+  font-size: 16px;
+  color: #fafafa;
+  font-family: Inter;
+}
+.container-item {
+  align-self: stretch;
+  height: 37px;
+}
+.container54 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  gap: 4px;
+}
+.x32 {
+  width: 18px;
+  height: 21px;
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 150%;
+  display: flex;
+  align-items: center;
+}
+.container-icon1,
+.container59,
+.margin2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.margin2 {
+  flex: 1;
+  flex-direction: column;
+  padding: 0 2px 0 0;
+}
+.container-icon1,
+.container59 {
+  flex-direction: row;
+}
+.container59 {
+  flex-direction: column;
+  padding: 2px 0 3px;
+}
+.background7,
+.container58 {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.container58 {
+  width: 34.5px;
+  height: 20px;
+  margin: 0 !important;
+  position: absolute;
+  top: 9px;
+  right: 7.5px;
+  flex-direction: row;
+  padding: 0;
+  z-index: 1;
+  font-size: 14px;
+  font-family: Inter;
+}
+.background7 {
+  width: 159px;
+  border-radius: 4px;
+  background-color: #303030;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: column;
+  padding: 8px 7px 8px 8px;
+  position: relative;
+  text-align: left;
+  font-size: 12px;
+  color: #5a5a5a;
+  font-family: "Sofia Sans";
+}

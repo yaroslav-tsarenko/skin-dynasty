@@ -1,0 +1,123 @@
+.image-icon12 {
+  width: 133px;
+  height: 133px;
+  position: relative;
+  object-fit: contain;
+}
+.phase-2 {
+  color: #13b5cb;
+}
+.fn-phase-2 {
+  align-self: stretch;
+  position: relative;
+  line-height: 18px;
+}
+.container42 {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.remove-buttons {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 63px;
+  white-space: nowrap;
+}
+.container43,
+.container44 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.container43 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: center;
+  font-size: 16px;
+  color: #fafafa;
+  font-family: Inter;
+}
+.cart-buttons {
+  align-self: stretch;
+  height: 37px;
+}
+.container41 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  gap: 4px;
+}
+.x3 {
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 150%;
+  display: inline-block;
+  min-width: 18px;
+}
+.margin {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 2px 0 0;
+}
+.icon1 {
+  height: 13px;
+  width: 13.5px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.container46,
+.container47 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.container46 {
+  flex-direction: column;
+  padding: 2px 0 3px;
+}
+.background5,
+.container45 {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.container45 {
+  width: 34.5px;
+  height: 20px;
+  margin: 0 !important;
+  position: absolute;
+  top: 9px;
+  right: 7.5px;
+  flex-direction: row;
+  padding: 0;
+  z-index: 1;
+  font-size: 14px;
+  font-family: Inter;
+}
+.background5 {
+  width: 159px;
+  border-radius: 4px;
+  background-color: #303030;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: column;
+  padding: 8px 7px 8px 8px;
+  position: relative;
+  text-align: left;
+  font-size: 12px;
+  color: #5a5a5a;
+  font-family: "Sofia Sans";
+}

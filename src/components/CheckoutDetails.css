@@ -1,0 +1,177 @@
+.checkout-header,
+.header7 {
+  align-self: stretch;
+  max-width: 100%;
+}
+.header7 {
+  flex: 1;
+}
+.checkout-header {
+  height: 58px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 4px;
+  box-sizing: border-box;
+}
+.cart-subtotal1,
+.subtotal-value {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 113px;
+}
+.subtotal-value {
+  min-width: 70px;
+  white-space: nowrap;
+}
+.subtotal-total,
+.values {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.values {
+  flex: 1;
+  justify-content: space-between;
+  gap: 20px;
+}
+.subtotal-total {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 28px 0 25px;
+  box-sizing: border-box;
+}
+.other-taxes1,
+.shipping-handling1 {
+  position: relative;
+  line-height: 22px;
+}
+.other-taxes1 {
+  display: inline-block;
+  min-width: 103px;
+}
+.taxes-labels {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+}
+.b10,
+.b9 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 48px;
+  white-space: nowrap;
+}
+.taxes-labels1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+}
+.shipping-taxes,
+.taxes {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.taxes {
+  flex: 1;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: 20px;
+}
+.shipping-taxes {
+  justify-content: flex-start;
+  padding: 0 28px 0 25px;
+}
+.checkout-details-inner,
+.frame-child,
+.shipping-taxes {
+  align-self: stretch;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-child {
+  flex: 1;
+  position: relative;
+  border-top: 1px solid #b6b6b6;
+}
+.checkout-details-inner {
+  height: 4px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 3px;
+}
+.b11,
+.grand-total1 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 100px;
+}
+.b11 {
+  text-align: right;
+  min-width: 70px;
+  white-space: nowrap;
+}
+.grand-total-group {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: 20px;
+}
+.checkout-details3,
+.subtotal-total1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.subtotal-total1 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 25px;
+}
+.checkout-details3 {
+  width: 504px;
+  border-radius: 5px;
+  flex-direction: column;
+  padding: 0 0 32px;
+  gap: 32px;
+  min-width: 504px;
+  text-align: left;
+  font-size: 18px;
+  color: rgba(250, 250, 250, 0.8);
+  font-family: Archivo;
+}
+@media screen and (max-width: 1275px) {
+  .checkout-details3 {
+    flex: 1;
+  }
+}
+@media screen and (max-width: 750px) {
+  .checkout-details3 {
+    gap: 16px;
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 450px) {
+  .grand-total-group,
+  .taxes,
+  .values {
+    flex-wrap: wrap;
+  }
+}

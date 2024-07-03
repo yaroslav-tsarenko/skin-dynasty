@@ -1,0 +1,102 @@
+.swapblog-banana-the-3rd-la-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: 2px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.container26,
+.container27 {
+  height: 1px;
+  border-radius: 2px;
+}
+.container26 {
+  width: 39px;
+}
+.container27 {
+  flex: 1;
+}
+.container25 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 170px 0 0;
+  gap: 0 8px;
+}
+.championship-top-teams,
+.epic-showdown-at {
+  margin: 0;
+}
+.epic-showdown-at-container {
+  position: relative;
+  line-height: 20px;
+}
+.time1 {
+  height: 20px;
+  width: 77px;
+}
+.read-more1 {
+  text-decoration: none;
+  position: relative;
+  line-height: 20px;
+  color: inherit;
+  display: inline-block;
+  min-width: 68px;
+}
+.svg-icon8 {
+  height: 20px;
+  width: 20px;
+  position: relative;
+  min-height: 20px;
+}
+.container28,
+.container29 {
+  display: flex;
+  flex-direction: row;
+}
+.container29 {
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 4px 0 0;
+  gap: 4px;
+}
+.container28 {
+  align-self: stretch;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  font-size: 14px;
+  color: #d9d9d9;
+}
+.post-content,
+.post-list {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.post-content {
+  align-self: stretch;
+  padding: 0 8px;
+}
+.post-list {
+  height: 297px;
+  width: 282px;
+  text-align: left;
+  font-size: 16px;
+  color: #fff;
+  font-family: Inter;
+}
+@media screen and (max-width: 450px) {
+  .container25 {
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+}

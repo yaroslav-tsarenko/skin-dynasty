@@ -1,0 +1,72 @@
+.image-icon6 {
+  height: 20px;
+  width: 106.7px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  max-width: 106.66px;
+}
+.container23 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.weeks-ago {
+  position: relative;
+  line-height: 20px;
+  display: inline-block;
+  min-width: 77px;
+}
+.time {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.container22 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
+.figcaption-billy,
+.great-design-the {
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 150%;
+}
+.great-design-the {
+  align-self: stretch;
+  color: #fff;
+}
+.figcaption-billy {
+  display: inline-block;
+  min-width: 85px;
+}
+.review-list {
+  width: 369px;
+  filter: drop-shadow(0 4px 4px rgba(0, 0, 0, 0.25));
+  border-radius: 6px;
+  border: 1px solid #5a5a5a;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 6px 6px 6px 8px;
+  gap: 8px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 14px;
+  color: #5a5a5a;
+  font-family: Inter;
+}
+@media screen and (max-width: 450px) {
+  .container22 {
+    flex-wrap: wrap;
+  }
+}
